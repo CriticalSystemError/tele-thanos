@@ -1,0 +1,17 @@
+{
+  "name": "deleter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "tdl": "^6.2.0",
+    "tdl-tdlib-addon": "^0.8.2",
+    "yenv": "^2.1.1"
+  }
+}
