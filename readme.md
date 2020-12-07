@@ -1,4 +1,4 @@
-# Script for delete all messages from group
+# Script for delete all messages in group
 
 ## First install
 
